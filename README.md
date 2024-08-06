@@ -1,4 +1,4 @@
-![Banner Image](https://www.pexels.com/photo/recording-studio-with-ultra-violet-florescent-164938/)
+![pexels-pixabay-164938](https://github.com/user-attachments/assets/b213163d-09dd-44c0-84de-84ff0e22e703)
 
 Welcome to my GitHub corner! I'm Alvin 
 

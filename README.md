@@ -3,18 +3,19 @@
 Welcome to my GitHub corner! I'm Alvin 
 
 ## 👨🏽‍💻 About Me
-- **Name**: Alvin Brocke
+- **Name**: Alvin Nii Amar Brocke
 - **Location**: Ghana 🇬🇭
-- **Passions**: Music, Front-end Development, UI/UX Design, Web Development
+- **Passions**: Front-end Development, UI/UX Design, Web Development, Music Production
 - **Hobbies**: 🎮 Video Games, 🏓 Table Tennis, 🎶 Producing Music
 
 ## 🔥 Projects
 
 ## 🛠️ Technologies & Tools
-- **Languages**: HTML, CSS, JavaScript, Dart
-- **Frameworks**: Flutter, 
-- **Design Tools**: Figma, Adobe XD, Sketch
+- **Languages**: Python, Java, HTML, CSS, JavaScript, Dart, 
+- **Frameworks**: Bootstrap, Tailwind
+- **Design Tools**: Figma, Canva
 - **Music Tools**: Fl Studio 21
+- **Hardware**: Apple Macbook M3 Pro
 
 ## 📬 Get In Touch
 - **Personal Email**: [alvinbrocke@gmail.com](mailto:alvinbrocke@gmail.com)

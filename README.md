@@ -10,6 +10,11 @@ Welcome to my GitHub corner! I'm Alvin
 
 ## 🔥 Projects
 
+- [**N.A.C.K.)**](https://github.com/Joseph-Lartey/N.A.C.K): A social networking application for Ashesi Students (Networking and Communicating Kindly)
+- [**SoundScape**](https://github.com/AlvinBrocke/SoundScape-FinalProject): A music streaming platform similat to spotify
+- [**ExotiqueCR**](https://github.com/AlvinBrocke/ExotiqueCR): An exotique car rental website for all your premium rental needs
+- [**Assignify**](https://github.com/AlvinBrocke/Assignify): A simple chore management system to streamline chores
+
 ## 🛠️ Technologies & Tools
 - **Languages**: Python, Java, HTML, CSS, JavaScript, Dart, 
 - **Frameworks**: Bootstrap, Tailwind

@@ -24,7 +24,7 @@ Welcome to my GitHub corner! I'm Alvin
 
 ## 📬 Get In Touch
 - **Personal Email**: [alvinbrocke@gmail.com](mailto:alvinbrocke@gmail.com)
-- **Producer Email:**: [okayalvnproductions@gmail.com](mailto:okayalvnproductions@gmail.com)
+- **Producer Email**: [okayalvnproductions@gmail.com](mailto:okayalvnproductions@gmail.com)
 - **LinkedIn**: [Alvin Brocke](https://www.linkedin.com/in/alvinbrocke)
 - **Instagram**: [@okayalvn](https://instagram.com/okayalvn)
 

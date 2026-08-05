@@ -73,10 +73,10 @@ Producing under the alias <b>okayalvn</b> in FL Studio 21. Coding by day, mixing
 
 ## 📌 Featured Repos
 
-<a href="https://github.com/Joseph-Lartey/N.A.C.K"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Joseph-Lartey&repo=N.A.C.K&title_color=ff006e&icon_color=00f5ff&text_color=c9d1d9&bg_color=141321&hide_border=true" /></a>
-<a href="https://github.com/AlvinBrocke/SoundScape-FinalProject"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlvinBrocke&repo=SoundScape-FinalProject&title_color=ff006e&icon_color=00f5ff&text_color=c9d1d9&bg_color=141321&hide_border=true" /></a>
-<a href="https://github.com/AlvinBrocke/ExotiqueCR"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlvinBrocke&repo=ExotiqueCR&title_color=ff006e&icon_color=00f5ff&text_color=c9d1d9&bg_color=141321&hide_border=true" /></a>
-<a href="https://github.com/AlvinBrocke/Assignify"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AlvinBrocke&repo=Assignify&title_color=ff006e&icon_color=00f5ff&text_color=c9d1d9&bg_color=141321&hide_border=true" /></a>
+<a href="https://github.com/Joseph-Lartey/N.A.C.K"><img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=Joseph-Lartey&repo=N.A.C.K&title_color=ff006e&icon_color=00f5ff&text_color=c9d1d9&bg_color=141321&hide_border=true" /></a>
+<a href="https://github.com/AlvinBrocke/SoundScape-FinalProject"><img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=AlvinBrocke&repo=SoundScape-FinalProject&title_color=ff006e&icon_color=00f5ff&text_color=c9d1d9&bg_color=141321&hide_border=true" /></a>
+<a href="https://github.com/AlvinBrocke/ExotiqueCR"><img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=AlvinBrocke&repo=ExotiqueCR&title_color=ff006e&icon_color=00f5ff&text_color=c9d1d9&bg_color=141321&hide_border=true" /></a>
+<a href="https://github.com/AlvinBrocke/Assignify"><img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=AlvinBrocke&repo=Assignify&title_color=ff006e&icon_color=00f5ff&text_color=c9d1d9&bg_color=141321&hide_border=true" /></a>
 
 </div>
 
@@ -86,10 +86,10 @@ Producing under the alias <b>okayalvn</b> in FL Studio 21. Coding by day, mixing
 
 ## 📊 Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=AlvinBrocke&show_icons=true&hide_border=true&count_private=true&title_color=ff006e&icon_color=00f5ff&text_color=c9d1d9&bg_color=141321" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlvinBrocke&layout=compact&hide_border=true&title_color=ff006e&text_color=c9d1d9&bg_color=141321" height="165" />
+<img src="https://github-stats-extended.vercel.app/api?username=AlvinBrocke&show_icons=true&hide_border=true&count_private=true&title_color=ff006e&icon_color=00f5ff&text_color=c9d1d9&bg_color=141321" height="165" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=AlvinBrocke&layout=compact&hide_border=true&title_color=ff006e&text_color=c9d1d9&bg_color=141321" height="165" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=AlvinBrocke&hide_border=true&background=141321&ring=ff006e&fire=ff006e&currStreakNum=c9d1d9&currStreakLabel=00f5ff&sideNums=c9d1d9&sideLabels=00f5ff&dates=8b949e" />
+<img src="https://streak-stats.demolab.com?user=AlvinBrocke&hide_border=true&background=141321&ring=ff006e&fire=ff006e&currStreakNum=c9d1d9&currStreakLabel=00f5ff&sideNums=c9d1d9&sideLabels=00f5ff&dates=8b949e" />
 
 <img src="https://github-profile-trophy.vercel.app/?username=AlvinBrocke&theme=matrix&no-frame=true&column=7&margin-w=8&margin-h=8" />
 

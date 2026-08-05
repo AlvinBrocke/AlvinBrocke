@@ -71,6 +71,17 @@ Producing under the alias <b>okayalvn</b> in FL Studio 21. Coding by day, mixing
 
 <div align="center">
 
+## 🆕 Recent Work
+
+<a href="https://github.com/AlvinBrocke/PESDAC"><img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=AlvinBrocke&repo=PESDAC&title_color=ff006e&icon_color=00f5ff&text_color=c9d1d9&bg_color=141321&hide_border=true" /></a>
+<a href="https://github.com/AlvinBrocke/Lobby-Lounge"><img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=AlvinBrocke&repo=Lobby-Lounge&title_color=ff006e&icon_color=00f5ff&text_color=c9d1d9&bg_color=141321&hide_border=true" /></a>
+
+</div>
+
+<br>
+
+<div align="center">
+
 ## 📌 Featured Repos
 
 <a href="https://github.com/Joseph-Lartey/N.A.C.K"><img align="center" src="https://github-stats-extended.vercel.app/api/pin/?username=Joseph-Lartey&repo=N.A.C.K&title_color=ff006e&icon_color=00f5ff&text_color=c9d1d9&bg_color=141321&hide_border=true" /></a>

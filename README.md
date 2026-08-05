@@ -123,4 +123,4 @@ Producing under the alias <b>okayalvn</b> in FL Studio 21. Coding by day, mixing
 
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00f5ff,100:ff006e&height=120&section=footer)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5ff,100:ff006e&height=120&section=footer" alt="footer" />

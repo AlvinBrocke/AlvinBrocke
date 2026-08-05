@@ -91,7 +91,7 @@ Producing under the alias <b>okayalvn</b> in FL Studio 21. Coding by day, mixing
 
 <img src="https://streak-stats.demolab.com?user=AlvinBrocke&hide_border=true&background=141321&ring=ff006e&fire=ff006e&currStreakNum=c9d1d9&currStreakLabel=00f5ff&sideNums=c9d1d9&sideLabels=00f5ff&dates=8b949e" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=AlvinBrocke&theme=matrix&no-frame=true&column=7&margin-w=8&margin-h=8" />
+<img src="https://github-profile-trophy-winning.vercel.app/?username=AlvinBrocke&theme=matrix&no-frame=true&column=7&margin-w=8&margin-h=8" />
 
 </div>
 

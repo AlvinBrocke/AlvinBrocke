@@ -47,8 +47,9 @@ B2B licensed background music streaming for US hospitality businesses. Technical
 <td width="50%" valign="top">
 
 **💼 Client work @ Labyrinth**
-Design systems and full-stack builds for fintech/financial clients — dashboards, brand identity, and UI/UX for platforms like a Ghana Stock Exchange investment product.
-
+Led brand naming and visual identity and delivered brand strategy and web development for 3 further client projects —
+personal branding for professionals plus industry sites (construction, water distribution, African textile/fabric, farming,
+architecture.
 </td>
 </tr>
 </table>

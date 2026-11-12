@@ -11,7 +11,7 @@
 ### `whoami`
 
 ```
-> Freelandce Software Developer 
+> Freelance Software Developer 
 > Brand Strategist + Website Developer @ Labyrinth (creative agency, Accra) — contract
 > Technical Co-founder @ Lobby & Lounge — B2B licensed background music streaming
 > Computer Science Graduate, Ashesi University

@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=venom&color=0:ff006e,50:b967ff,100:00f5ff&height=260&section=header&text=ALVIN%20BROCKE&fontSize=70&fontColor=ffffff&animation=twinkling&desc=AI-Native%20Software%20Developer%20•%20UI/UX%20Designer%20•%20Music%20Studio&descSize=18&descAlignY=75)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=26&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=650&height=50&lines=Software+Developer+%40+Bista+Solutions;Brand+Strategist+%2B+Website+Developer+%40+Labyrinth;Building+Lobby+%26+Lounge+%F0%9F%8E%A7;Producing+beats+as+okayalvn;Coding+from+Accra%2C+Ghana+%F0%9F%87%AC%F0%9F%87%AD)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=26&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=650&height=50&lines=Software+Developer;Brand+Strategist+%2B+Website+Developer+%40+Labyrinth;Building+Lobby+%26+Lounge+%F0%9F%8E%A7;Producing+beats+as+okayalvn;Coding+from+Accra%2C+Ghana+%F0%9F%87%AC%F0%9F%87%AD)](https://git.io/typing-svg)
 
 </div>
 
@@ -11,7 +11,7 @@
 ### `whoami`
 
 ```
-> Software Developer @ Bista Solutions — since Sept 2025
+> Freelandce Software Developer 
 > Brand Strategist + Website Developer @ Labyrinth (creative agency, Accra) — contract
 > Technical Co-founder @ Lobby & Lounge — B2B licensed background music streaming
 > Computer Science Graduate, Ashesi University
